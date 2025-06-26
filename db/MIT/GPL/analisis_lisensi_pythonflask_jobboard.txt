@@ -1,0 +1,27 @@
+
+Analisis Lisensi Proyek: PythonFlask-JobBoard (oleh jonfriskics)
+================================================================
+
+📌 URL Proyek:
+https://github.com/jonfriskics/PythonFlask-JobBoard
+
+📄 Status Lisensi:
+Proyek ini TIDAK menyertakan file LICENSE resmi seperti MIT, GPL, atau lisensi open source lainnya.
+Dengan tidak adanya lisensi, secara default proyek ini bersifat proprietary dan tidak dapat dimodifikasi,
+digunakan ulang, atau didistribusikan tanpa izin eksplisit dari pemilik repositori.
+
+⚠️ Implikasi Hukum:
+- Anda TIDAK dapat menggunakan kembali kode ini dalam proyek Anda (terutama untuk publikasi atau distribusi).
+- Anda TIDAK dapat melakukan perubahan dan mempublikasikan versi modifikasi.
+- Anda TIDAK memiliki hak legal untuk menyertakan proyek ini sebagai bagian dari karya open source Anda.
+
+📝 Rekomendasi Tindakan:
+1. Hubungi pemilik repositori untuk meminta kejelasan atau izin lisensi resmi.
+2. Ajukan permintaan lisensi seperti MIT atau GPL agar Anda bisa menggunakannya secara legal.
+3. Jika lisensi diberikan (misalnya MIT), maka Anda bebas untuk mengubah dan menyebarluaskan selama mencantumkan lisensi aslinya.
+4. Jika lisensi diberikan (misalnya GPL), Anda dapat mengubah dan menyebarkan, tetapi proyek hasil perubahan Anda juga harus berlisensi GPL.
+
+✅ Kesimpulan Sementara:
+Tanpa adanya lisensi, proyek tidak aman secara hukum untuk digunakan ulang.
+Tindakan terbaik saat ini adalah menunggu atau meminta klarifikasi dari pemilik proyek.
+

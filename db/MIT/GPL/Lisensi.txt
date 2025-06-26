@@ -1,0 +1,22 @@
+📌 Perbandingan Lisensi: MIT vs GPL
+===================================
+
+Aspek                                | MIT        | GPL        
+------------------------------------|------------|-------------
+Boleh digunakan komersial?           | Ya ✅      | Ya ✅      
+Wajib buka source jika diubah?       | Tidak ❌   | Wajib ✅   
+Bisa diubah jadi closed source?      | Ya ✅      | Tidak ❌   
+Wajib cantumkan lisensi asli?        | Ya ✅      | Ya ✅      
+Kompatibel untuk proyek proprietary? | Ya ✅      | Tidak ❌   
+
+✅ Apakah Pengubahan Kamu Kompatibel?
+-------------------------------------
+
+Jika Proyek Asli Berlisensi | Maka Perubahan Kamu Kompatibel Jika…
+-----------------------------|-------------------------------------------------
+MIT                         | Tetap mencantumkan lisensi MIT
+GPL                         | Perubahan juga dirilis kembali dengan lisensi GPL
+
+📌 Catatan:
+- Lisensi MIT lebih fleksibel dan cocok untuk penggunaan pribadi maupun komersial.
+- Lisensi GPL memastikan bahwa kebebasan pengguna tetap terjaga dengan mewajibkan semua versi turunan juga tetap open source.
